@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Lover Sky\Documents\Code\java\JavaJSP\BookStoreProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\976827104.index
+\BookStoreWeb\src\main\java
